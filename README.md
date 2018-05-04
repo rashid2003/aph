@@ -1,3 +1,3 @@
 # aph
-<h2>Afghan Programmers Home
-A simple site for afghan programmers
+<h2>Afghan Programmers Home</h2><br>
+<h3>A simple site for afghan programmers
